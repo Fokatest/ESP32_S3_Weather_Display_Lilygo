@@ -28,7 +28,7 @@ A small weather station firmware for the [LILYGO T-Display-S3](https://github.co
    #define WIFI_SSID       "YOUR_WIFI_SSID"
    #define WIFI_PASSWORD   "YOUR_WIFI_PASSWORD"
    #define OWM_API_KEY     "YOUR_OPENWEATHERMAP_API_KEY"
-   #define OWM_CITY        "Offenbach"
+   #define OWM_CITY        "Frankfurt"
    #define OWM_COUNTRY     "DE"
    #define OWM_LANG        "en"
    #define OWM_UNITS       "metric"
